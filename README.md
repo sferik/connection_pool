@@ -1,6 +1,7 @@
 connection\_pool
 =================
 [![Build Status](https://github.com/mperham/connection_pool/actions/workflows/ci.yml/badge.svg)](https://github.com/mperham/connection_pool/actions/workflows/ci.yml)
+[![Duel](https://raw.githubusercontent.com/mperham/connection_pool/duel/badge/badge.svg)](https://github.com/sferik/duel-ruby)
 
 Generic connection pooling for Ruby.
 
